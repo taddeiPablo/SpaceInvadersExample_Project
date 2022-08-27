@@ -1,0 +1,7 @@
+# Collapse Unity-generated files on GitHub
+
+_.asset linguist-generated
+_.mat linguist-generated
+_.meta linguist-generated
+_.prefab linguist-generated
+\*.unity linguist-generated
